@@ -47,7 +47,7 @@ setuptools.setup(
     install_requires=[
         "pip==19.0.3",
         "enum34==1.1.6",
-        "requests==2.21.0",
+        "requests==2.31.0",
         "absl-py==0.6.1",
         "certifi==2019.3.9",
         "urllib3==1.24.1",
