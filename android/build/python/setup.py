@@ -49,7 +49,7 @@ setuptools.setup(
         "enum34==1.1.6",
         "requests==2.21.0",
         "absl-py==0.6.1",
-        "certifi==2019.3.9",
+        "certifi==2023.7.22",
         "urllib3==1.24.1",
         "idna==2.8",
         "chardet==3.0.4",
